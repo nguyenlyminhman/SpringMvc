@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome</title>
 </head>
 <body>
-
+Hello, ${username} , your password is ${password }
 </body>
 </html>
